@@ -1,0 +1,12 @@
+@import 'mixins';
+
+:root {
+  --window-height: 100vh;
+  --nav-height: 2rem;
+  --space-standard: 0.625rem;
+
+  --z-curtain: 200;
+  --z-nav-gallery: 500;
+  --z-cursor: 600;
+  --z-nav: 800;
+}
